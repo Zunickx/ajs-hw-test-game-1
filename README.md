@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cvb4oh2e0lcvthv7?svg=true)](https://ci.appveyor.com/project/Zunickx/ajs-hw-test-game-1)
